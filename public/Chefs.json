@@ -1,0 +1,162 @@
+[
+    {
+        "recipe_id": "1",
+        "recipe_name": "Classic Margherita Pizza",
+        "short_description": "A simple Italian pizza topped with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "250 g pizza dough",
+            "100 g mozzarella cheese",
+            "3 fresh tomatoes",
+            "10 basil leaves",
+            "2 tbsp olive oil",
+            "1 tsp oregano"
+        ],
+        "preparing_time": 40,
+        "calories": 300,
+        "image": "https://plus.unsplash.com/premium_photo-1724685602679-c99da44e9113?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2xhc3NpYyUyME1hcmdoZXJpdGElMjBQaXp6YXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "recipe_id": "2",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "A rich and creamy pasta dish with eggs, cheese, pancetta, and pepper.",
+        "ingredients": [
+            "300 g spaghetti",
+            "100 g pancetta",
+            "2 eggs",
+            "50 g parmesan cheese",
+            "2 tbsp olive oil",
+            "1 tsp black pepper"
+        ],
+        "preparing_time": 25,
+        "calories": 450,
+        "image": "https://images.unsplash.com/photo-1590576502976-a7b6cd63f4dc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fFNwYWdoZXR0aSUyMENhcmJvbmFyYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "recipe_id": "3",
+        "recipe_name": "Grilled Chicken Caesar Salad",
+        "short_description": "A hearty salad with grilled chicken, crisp romaine, croutons, and Caesar dressing.",
+        "ingredients": [
+            "200 g chicken breast",
+            "150 g romaine lettuce",
+            "50 g croutons",
+            "30 g parmesan cheese",
+            "3 tbsp Caesar dressing",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": 30,
+        "calories": 350,
+        "image": "https://images.unsplash.com/photo-1570197571499-166b36435e9f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEdyaWxsZWQlMjBDaGlja2VuJTIwQ2Flc2FyJTIwU2FsYWR8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "recipe_id": "4",
+        "recipe_name": "Vegetable Stir Fry",
+        "short_description": "A colorful and healthy mix of stir-fried vegetables in a savory sauce.",
+        "ingredients": [
+            "200 g broccoli",
+            "150 g bell peppers",
+            "100 g carrots",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil",
+            "1 tsp ginger"
+        ],
+        "preparing_time": 20,
+        "calories": 200,
+        "image": "https://images.unsplash.com/photo-1552914343-05ccdaf123d6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VmVnZXRhYmxlJTIwU3RpciUyMEZyeXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "recipe_id": "5",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Mexican-style tacos filled with seasoned beef, lettuce, cheese, and salsa.",
+        "ingredients": [
+            "300 g ground beef",
+            "6 taco shells",
+            "50 g shredded cheese",
+            "100 g lettuce",
+            "50 g salsa",
+            "1 tsp chili powder"
+        ],
+        "preparing_time": 35,
+        "calories": 400,
+        "image": "https://plus.unsplash.com/premium_photo-1681406995031-fe952f1e0858?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8QmVlZiUyMFRhY29zfGVufDB8fDB8fHww"
+    },
+    {
+        "recipe_id": "6",
+        "recipe_name": "Seafood Paella",
+        "short_description": "A Spanish rice dish with shrimp, mussels, and a rich saffron-infused broth.",
+        "ingredients": [
+            "200 g shrimp",
+            "100 g mussels",
+            "300 g rice",
+            "1 tsp saffron",
+            "100 g green peas",
+            "2 tbsp olive oil"
+        ],
+        "preparing_time": 50,
+        "calories": 500,
+        "image": "https://images.unsplash.com/photo-1534080564583-6be75777b70a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U2VhZm9vZCUyMFBhZWxsYXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "recipe_id": "7",
+        "recipe_name": "Chocolate Brownies",
+        "short_description": "Rich and fudgy brownies with a gooey chocolate center.",
+        "ingredients": [
+            "200 g dark chocolate",
+            "100 g butter",
+            "150 g sugar",
+            "2 eggs",
+            "100 g flour",
+            "1 tsp vanilla extract"
+        ],
+        "preparing_time": 40,
+        "calories": 350,
+        "image": "https://images.unsplash.com/photo-1617996884841-3949eaec3448?q=80&w=1373&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "recipe_id": "8",
+        "recipe_name": "Tom Yum Soup",
+        "short_description": "A hot and sour Thai soup with shrimp, mushrooms, and fragrant spices.",
+        "ingredients": [
+            "200 g shrimp",
+            "100 g mushrooms",
+            "2 tbsp fish sauce",
+            "1 tbsp lime juice",
+            "1 tsp chili paste",
+            "3 kaffir lime leaves"
+        ],
+        "preparing_time": 30,
+        "calories": 250,
+        "image": "https://images.unsplash.com/photo-1675150277436-9c7348972c11?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VG9tJTIwWXVtJTIwU291cHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "recipe_id": "9",
+        "recipe_name": "Avocado Toast",
+        "short_description": "A healthy breakfast option with creamy avocado on toasted bread.",
+        "ingredients": [
+            "1 ripe avocado",
+            "2 slices of bread",
+            "1 tsp lemon juice",
+            "1 pinch chili flakes",
+            "1 pinch salt",
+            "1 tbsp olive oil"
+        ],
+        "preparing_time": 10,
+        "calories": 200,
+        "image": "https://images.unsplash.com/photo-1637154199148-62dd57c5b6e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEF2b2NhZG8lMjBUb2FzdHxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "recipe_id": "10",
+        "recipe_name": "Butter Chicken",
+        "short_description": "A creamy and mildly spiced Indian curry with tender chicken pieces.",
+        "ingredients": [
+            "500 g chicken",
+            "100 g butter",
+            "200 ml cream",
+            "150 g tomato puree",
+            "2 tsp garam masala",
+            "1 tbsp ginger-garlic paste"
+        ],
+        "preparing_time": 45,
+        "calories": 450,
+        "image": "https://images.unsplash.com/photo-1705174427925-744646e72117?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QnV0dGVyJTIwQ2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D"
+    }
+]
