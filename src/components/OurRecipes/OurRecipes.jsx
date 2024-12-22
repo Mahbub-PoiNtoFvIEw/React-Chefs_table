@@ -1,7 +1,8 @@
 import { useEffect, useState } from "react";
 import Recipe from "../Recipe/Recipe";
+import propTypes from 'prop-types';
 
-const OurRecipes = () => {
+const OurRecipes = ({handleWantToCook}) => {
     const [recipes, setRecipes] = useState([]);
 
     useEffect(()=>{
@@ -12,10 +13,17 @@ const OurRecipes = () => {
     return (
         <div className="md:grid grid-cols-2 gap-4">
             {
-                recipes.map(recipe => <Recipe key={recipe.id} recipe={recipe}></Recipe>)
+                recipes.map((recipe,idx) => <Recipe 
+                    key={idx} 
+                    recipe={recipe}
+                    handleWantToCook={handleWantToCook}></Recipe>)
             }
         </div>
     );
 };
+
+OurRecipes.propTypes = {
+    handleWantToCook: propTypes.func
+}
 
 export default OurRecipes;
